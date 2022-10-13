@@ -1,3 +1,3 @@
 # stratascratch_sql_practice
 
-Solving medium difficulty SQL questions from StrataScratch.
+Solving coding questions from StrataScratch using Python and SQL.
